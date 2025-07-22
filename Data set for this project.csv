@@ -1,0 +1,101 @@
+area,bedrooms,bathrooms,location,parking_space,age_of_building,furnishing_status,price
+1441,3,3,Outskirts,0,0,Semi-Furnished,115.74
+547,2,3,City Center,1,27,Unfurnished,77.52
+1848,5,2,"City Center",0,6,Semi-Furnished,164.44
+910,1,3,Suburb,1,23,Unfurnished,76.84
+2789,3,2,Outskirts,0,1,Semi-Furnished,196.19
+1947,5,1,Outskirts,0,5,Furnished,152.56
+1189,1,2,Suburb,0,22,Semi-Furnished,102.37
+2656,4,2,Suburb,1,1,Furnished,198.94
+695,5,2,City Center,0,7,Furnished,125.46
+664,2,2,City Center,0,1,Semi-Furnished,58.32
+2963,1,3,Downtown,0,6,Unfurnished,186.45   
+1835,4,1,City Center,0,0,Semi-Furnished,160.13
+2843,4,1,Uptown,1,5,Furnished,215.29
+1082,2,2,Suburb,0,9,Unfurnished,102.01
+1865,4,3,Downtown,1,12,Semi-Furnished,170.72
+1842,4,1,City Center,0,25,Furnished,130.8
+1152,3,2,City Center,1,16,Unfurnished,112.79
+2844,2,1,Suburb,0,12,Semi-Furnished,161.51
+1495,4,3,Suburb,0,30,Furnished,140.69
+1842,1,1,Downtown,1,0,Furnished,104.67
+2808,5,1,Outskirts,0,18,Unfurnished,182.68
+1429,3,3,Suburb,1,14,Furnished,128.22
+2638,2,3,Downtown,1,12,Furnished,163.03
+646,3,2,Downtown,0,6,Unfurnished,100.98
+2309,3,3,Outskirts,1,0,Semi-Furnished,162.51
+500,4,3,Uptown,1,19,Unfurnished,102.52
+2933,4,1,Downtown,0,4,Semi-Furnished,224.37
+2640,3,2,Suburb,0,4,Semi-Furnished,189.24
+1500,3,3,Downtown,1,1,Furnished,140.27
+2351,3,2,Suburb,1,3,Unfurnished,175.23
+1182,5,2,Uptown,1,13,Unfurnished,121.77
+1077,4,2,Suburb,0,28,Semi-Furnished,109.05
+1940,5,1,Suburb,1,7,Semi-Furnished,161.73
+2273,2,2,Outskirts,1,12,Semi-Furnished,152.51
+2422,3,2,Uptown,0,26,Furnished,149.22
+2446,4,1,Downtown,0,23,Furnished,180.39
+553,2,2,Suburb,0,4,Semi-Furnished,54.9
+530,3,3,City Center,1,15,Unfurnished,63.62
+730,4,3,Downtown,0,20,Unfurnished,81.31
+1747,5,2,City Center,1,8,Semi-Furnished,154.09
+1468,2,2,Uptown,0,4,Furnished,101.82
+1141,1,2,Uptown,1,10,Semi-Furnished,78.9
+2416,1,1,City Center,1,6,Unfurnished,134.97
+2531,1,1,Outskirts,1,30,Unfurnished,150.96
+504,4,2,Downtown,1,10,Semi-Furnished,100.95
+2782,1,3,City Center,1,4,Semi-Furnished,166.77
+1191,5,3,Uptown,1,13,Semi-Furnished,146.86
+2466,1,3,City Center,1,12,Semi-Furnished,149.88
+2907,2,3,Suburb,1,25,Semi-Furnished,187.72
+2492,4,2,Uptown,1,30,Unfurnished,176.02
+2585,1,1,Outskirts,0,14,Unfurnished,136.49
+2781,2,2,City Center,0,23,Unfurnished,165.54
+2300,2,3,City Center,0,3,Furnished,167.18
+1039,2,1,City Center,1,4,Furnished,107.36
+981,5,2,City Center,0,30,Semi-Furnished,97.07
+831,2,2,Outskirts,1,9,Furnished,68.91
+2490,5,1,Uptown,0,30,Furnished,184.22
+2201,5,3,Downtown,0,0,Unfurnished,199.51
+2158,2,1,Uptown,1,13,Furnished,151.16
+2626,5,2,Uptown,1,19,Semi-Furnished,191.51
+1903,2,3,Uptown,1,22,Semi-Furnished,146.07
+1444,4,3,Suburb,1,28,Furnished,126.58
+2567,2,3,Suburb,1,9,Unfurnished,162.23
+2876,1,2,Downtown,1,9,Furnished,164.28
+2807,4,1,Outskirts,0,2,Unfurnished,212.05
+835,4,1,City Center,1,7,Semi-Furnished,105.94
+1759,1,3,City Center,1,0,Semi-Furnished,140.79
+2084,3,2,Uptown,0,20,Furnished,143.36
+2672,3,1,Outskirts,1,9,Semi-Furnished,171.38
+842,3,1,City Center,0,30,Furnished,73.59
+745,5,2,Suburb,0,23,Semi-Furnished,100.49
+1564,1,1,Suburb,1,5,Semi-Furnished,115.94
+1273,5,2,Suburb,0,17,Semi-Furnished,122.55
+926,2,1,City Center,0,23,Semi-Furnished,91.9
+2233,4,3,Suburb,0,5,Unfurnished,183.59
+2222,2,1,Outskirts,1,6,Unfurnished,142.06
+1961,4,3,Suburb,1,2,Furnished,172.49
+1819,3,1,Uptown,1,26,Furnished,128.21
+1053,2,1,Suburb,0,14,Furnished,88.42
+813,4,1,Uptown,1,2,Semi-Furnished,90.78
+1452,5,2,Suburb,1,29,Furnished,134.44
+2042,4,2,Outskirts,1,1,Semi-Furnished,173.5
+693,2,1,Suburb,1,14,Furnished,62.95
+1581,1,1,Suburb,1,14,Furnished,106.16
+1571,3,1,Suburb,0,30,Unfurnished,105.17
+931,4,2,Outskirts,1,21,Semi-Furnished,84.01
+2211,3,3,Suburb,0,10,Semi-Furnished,185.39
+2176,4,1,Outskirts,0,0,Furnished,177.33
+2012,2,3,Outskirts,0,27,Furnished,122.77
+2375,2,3,City Center,1,11,Unfurnished,176.7
+2221,3,3,Downtown,1,8,Unfurnished,154.62
+1692,2,2,Suburb,1,5,Furnished,124.01
+2868,5,3,Suburb,0,2,Furnished,232.42
+1736,3,3,Downtown,1,25,Semi-Furnished,147.85
+514,5,3,Outskirts,0,24,Semi-Furnished,82.2
+2127,4,1,Uptown,0,27,Unfurnished,148.72
+2953,3,3,Uptown,0,16,Furnished,218.5
+697,1,1,Downtown,1,13,Semi-Furnished,45.64
+1015,3,2,Uptown,1,24,Furnished,79.34
+1565,3,3,Uptown,0,25,Semi-Furnished,137.91
